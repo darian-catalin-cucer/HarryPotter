@@ -7,10 +7,10 @@
     <data>
         <variable
             name="character"
-            type="com.hongbeomi.harrypotter.model.Character" />
+            type="cucerdariancatalin.harrypotter.model.Character" />
         <variable
             name="type"
-            type="com.hongbeomi.harrypotter.ui.HouseType" />
+            type="cucerdariancatalin.harrypotter.ui.HouseType" />
     </data>
 
         <androidx.constraintlayout.widget.ConstraintLayout

@@ -7,10 +7,10 @@
     <data>
         <variable
             name="house"
-            type="com.hongbeomi.harrypotter.ui.HouseType" />
+            type="cucerdariancatalin.harrypotter.ui.HouseType" />
         <variable
             name="vm"
-            type="com.hongbeomi.harrypotter.ui.detail.DetailViewModel" />
+            type="cucerdariancatalin.harrypotter.ui.detail.DetailViewModel" />
         <import type="android.view.View"/>
     </data>
     <androidx.coordinatorlayout.widget.CoordinatorLayout
