@@ -1,4 +1,9 @@
 package cucerdariancatalin.harrypotter.data.remote
 
-class RemoteDataSourceImpl {
+import cucerdariancatalin.harrypotter.data.service.HarryPotterService
+
+class RemoteDataSourceImpl(private val service: HarryPotterService) : RemoteDataSource {
+
+    override suspend fun getCharacters(type: String) = service.getCharacters(type)
+
 }

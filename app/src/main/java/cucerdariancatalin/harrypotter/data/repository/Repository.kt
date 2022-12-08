@@ -1,4 +1,9 @@
 package cucerdariancatalin.harrypotter.data.repository
 
-class Repository {
+import cucerdariancatalin.harrypotter.model.Character
+
+interface Repository {
+
+    suspend fun getCharacters(type: String) : List<Character>
+
 }
