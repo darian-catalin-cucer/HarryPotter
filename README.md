@@ -1,0 +1,1 @@
+Your letter has finally arrived! What kind of witch or wizard will you be? A heroic Gryffindor? A cunning Slytherin? A clever Ravenclaw? A loyal Hufflepuff? Put on the Sorting Hat, and YOU decide! 🎓 With countless choices, you’ll be able to carve out your own unique path in Harry Potter: Hogwarts Mystery.
