@@ -1,1 +1,16 @@
-Your letter has finally arrived! What kind of witch or wizard will you be? A heroic Gryffindor? A cunning Slytherin? A clever Ravenclaw? A loyal Hufflepuff? Put on the Sorting Hat, and YOU decide! 🎓 With countless choices, you’ll be able to carve out your own unique path in Harry Potter: Hogwarts Mystery.
+# Harry Potter Android App
+
+A fun and interactive app that brings the magic of Harry Potter to your Android device.
+
+## Features
+- Spell-casting with sound effects
+- Character profiles with descriptions and images
+- Sorting hat quiz to determine your Hogwarts house
+
+## Getting Started
+1. Download the app from the Google Play Store
+2. Open the app and start exploring the world of Harry Potter
+
+## Contributions
+Feel free to contribute to the project by opening up pull requests and improving the code.
+
